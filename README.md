@@ -14,6 +14,7 @@ Non exhaustive list of resources for getting into SFML and C++
 
 ![game starting UI](https://i.imgur.com/pAXDUGw.png)
 
+![inital design of gameplay](https://i.imgur.com/P4unths.png)
 
 ### asset packs that we are going to use
 
