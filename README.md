@@ -8,4 +8,14 @@ Non exhaustive list of resources for getting into SFML and C++
 [SFML Blueprints](https://www.pdfdrive.com/sfml-blueprints-sharpen-your-game-development-skills-and-improve-your-c-and-sfml-knowledge-with-five-exciting-projects-e188248572.html)
 
 
+## About SFMLoop Shooter
+
+### Game UI
+
+![game starting UI](https://i.imgur.com/pAXDUGw.png)
+
+
+### asset packs that we are going to use
+
+* [gun pack](https://jaks.itch.io/low-poly-rifle-pack)
 
