@@ -1,3 +1,7 @@
+## Installation Tutorial 
+[How to install SFML on windows](https://www.youtube.com/watch?v=KJZRjcL4FCs)
+
+
 # SFML-learning-resources
 Non exhaustive list of resources for getting into SFML and C++
 
