@@ -11,6 +11,8 @@ Non exhaustive list of resources for getting into SFML and C++
 
 [SFML Blueprints](https://www.pdfdrive.com/sfml-blueprints-sharpen-your-game-development-skills-and-improve-your-c-and-sfml-knowledge-with-five-exciting-projects-e188248572.html)
 
+[Cmake Cheatsheet](https://raw.githubusercontent.com/mortennobel/CMake-Cheatsheet/master/CMake_Cheatsheet.pdf)
+
 
 ## About SFMLoop Shooter
 
